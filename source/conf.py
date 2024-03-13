@@ -1,9 +1,8 @@
 extensions = ["nbsphinx"]
 
-templates_path = ['_templates']
+templates_path = []
 exclude_patterns = []
-html_static_path = ['_static']
-
+html_static_path = []
 
 project = "YiJingFramework.PrimitiveTypes"
 language = 'zh_CN'

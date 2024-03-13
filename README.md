@@ -1,1 +1,1 @@
-# PrimitiveTypes-Documentation
+![https://yjfwk.yueyinqiu.top/PrimitiveTypes/](https://yjfwk.yueyinqiu.top/PrimitiveTypes/)
