@@ -1,4 +1,4 @@
-YiJingFramework.PrimitiveTypes
+PrimitiveTypes
 ==========================================================
 
 .. toctree::

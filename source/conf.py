@@ -1,8 +1,8 @@
-extensions = ["nbsphinx"]
+extensions = ["nbsphinx", "sphinx_favicon"]
 
 templates_path = []
 exclude_patterns = []
-html_static_path = []
+html_static_path = ["wwwroot"]
 
 project = "YiJingFramework.PrimitiveTypes"
 language = 'zh_CN'
@@ -16,7 +16,12 @@ html_theme_options = {
                     "查看更多项目。",
 }
 # html_logo = "taiji32.png"
-html_title = "PrimitiveTypes (YiJingFramework)"
+html_title = "YiJingFramework. PrimitiveTypes"
+favicons = [
+    {
+        "href": "taiji.png" 
+    },
+]
 
 nbsphinx_codecell_lexer = "csharp"
 pygments_style = "vs"
